@@ -1,6 +1,8 @@
-# dcouch, an Alternative to Mnesia with Unique Features
+# dcouch, 
 
-**WIP**, code will be available on 2014-03-28.
+*An alternative to Mnesia withuUnique features*
+
+> **WIP**, code will be available on 2014-03-28.
 
 At the Erlang Factory SF BAY AREA 2014, I gave a quick lightning talk
 introducing opencouch a document oriented database compatible with
