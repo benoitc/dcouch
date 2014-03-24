@@ -1,4 +1,4 @@
-# dcouch, 
+# dcouch 
 
 *An alternative to Mnesia withuUnique features*
 
