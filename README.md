@@ -2,7 +2,7 @@
 
 *An alternative to Mnesia withuUnique features*
 
-> **WIP**, code will be available on 2014-03-28.
+> **WIP**, For the initial version look at http://github.com/benoitc/opencouch.
 
 At the Erlang Factory SF BAY AREA 2014, I gave a quick lightning talk
 introducing opencouch a document oriented database compatible with
@@ -13,5 +13,3 @@ replication or new features like the horizontal scalability and multiple
 storage backends. The feedback was really encouraging and I decided to
 go further. Opencouch now named "dcouch" is one of the core component of
 the [refuge](http://refuge.io) project.
-
-For the initial version look at http://github.com/benoitc/opencouch.
